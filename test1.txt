@@ -3,4 +3,4 @@ m1
 m2
 m3
 m4
-MaM5
+merge mab2 m5
