@@ -4,3 +4,4 @@ m2
 m3
 m4
 merge mab2 m5
+mam6
